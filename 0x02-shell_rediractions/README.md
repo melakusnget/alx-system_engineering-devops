@@ -1,1 +1,1 @@
-Some text for this phone me
+ this assignment is done by phone
