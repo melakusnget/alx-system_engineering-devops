@@ -1,1 +1,1 @@
-Create a script that creates an alias
+im melaku doing this assignment 
