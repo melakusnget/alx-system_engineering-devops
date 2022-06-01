@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c1 | paste -s |tr -d "[:blank:]"
+ls -t1 | head -n 10
